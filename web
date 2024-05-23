@@ -1,0 +1,69 @@
+<style>
+	body{
+
+		background-image:url("oi.webp") ;
+	}
+</style>
+
+
+<body>
+
+<div style="background-color: black;">
+ <br>
+ 	
+ </br>
+</div>
+
+<div style="background-color: red;">
+<h1>o melhor audi Q7</h1>
+<p><h3>Motor do Audi Q7 é um poderoso V6 de 3,0 litros montado na posição longitudinal.</h3></p>
+<p><h1>Lançado no Brasil em 2008, o Audi Q7 teve a sua segunda geração apresentada na Europa no final de 2014. Ela desembarcou no País, contudo, apenas em janeiro de 2016.</h1></p>
+</div>
+
+<div style="background-color: black;">
+ <br>
+ 	
+ </br>
+</div>
+
+<h1>BMW M3</h1>
+
+<div style="background-color: blue;">
+<h1>o melhor</h1>
+<div style="background-color:red;">
+<p>MotorDianteiro, longitudinal, 6 cilindros em linha, 24 válvulas</p>
+<p>O BMW M3 é uma versão de alta performance da BMW Série 3, desenvolvido pela BMW M GmbH.</p> </div>
+
+</div>
+<div style="background-color: black;">
+ <br>
+ 	
+ </br>
+</div>
+
+
+<div style="background-color: #A9A9A9;">
+<h1>Rolls-Royce Motor Cars</h1>
+<p><h3>automobilística inglesa subsidiária do grupo alemão BMW, sendo uma das mais conceituadas do mundo.</h3></p>
+
+<p><h1>Fundação15 de março de 1906.</h1></p>
+</div>
+
+<div style="background-color: black;">
+ <br>
+ 	
+ </br>
+</div>
+
+<div style="background-color:#4682B4;">
+<h1>Nissan GT-R</h1>
+<p><h3>O Nissan GT-R é provavelmente uma das plataformas mais longevas usadas em um modelo específico.</h3></p>
+
+<p><h1>O Nissan GT-R foi anunciado em 2001.</h1></p>
+</div>
+
+<div style="background-color: black;">
+ <br>
+ 	
+ </br>
+</div>
